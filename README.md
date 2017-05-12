@@ -1,0 +1,2 @@
+# sensitive_word_filter_socket_server
+通过Python的socket为前端提供敏感词过滤服务，支持多线程并发访问。
